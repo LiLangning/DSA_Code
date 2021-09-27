@@ -2,7 +2,7 @@
 #include<cmath>
 using namespace std;
 
-int ex0101()
+int main()
 {
 	int a[100005], N, M, weishu;
 	char c;

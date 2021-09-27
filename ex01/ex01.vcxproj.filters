@@ -21,5 +21,11 @@
     <ClCompile Include="ex0101 位查询.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ex0102 polynomial addition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ex0103 number sequance2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
