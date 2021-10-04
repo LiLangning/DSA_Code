@@ -1,4 +1,4 @@
-#include<iostream>
+#include<stdio.h>
 using namespace std;
 int findans(int k)
 {
@@ -27,7 +27,7 @@ int findans(int k)
 int main()
 {
 	int n;
-	cin >> n;
+	scanf("%d", &n);
 	printf("%d",findans(n));
 	return 0;
 }
