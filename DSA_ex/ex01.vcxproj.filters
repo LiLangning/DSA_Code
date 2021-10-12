@@ -13,25 +13,28 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\exo1_LinearList">
-      <UniqueIdentifier>{1744c40c-e2b4-4530-9150-298c446f3363}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\ex02_StackQueue">
       <UniqueIdentifier>{73510ac9-ca90-4b08-9bb0-3cdfa6b82743}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\ex03">
+      <UniqueIdentifier>{2196e7c4-d063-44db-9796-0a940d1b5f66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\ex01 LinearList">
+      <UniqueIdentifier>{1744c40c-e2b4-4530-9150-298c446f3363}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ex0103 number sequance2.cpp">
-      <Filter>源文件\exo1_LinearList</Filter>
+      <Filter>源文件\ex01 LinearList</Filter>
     </ClCompile>
     <ClCompile Include="ex0101 位查询.cpp">
-      <Filter>源文件\exo1_LinearList</Filter>
+      <Filter>源文件\ex01 LinearList</Filter>
     </ClCompile>
     <ClCompile Include="ex0101 位查询_ans.cpp">
-      <Filter>源文件\exo1_LinearList</Filter>
+      <Filter>源文件\ex01 LinearList</Filter>
     </ClCompile>
     <ClCompile Include="ex0102 polynomial addition.cpp">
-      <Filter>源文件\exo1_LinearList</Filter>
+      <Filter>源文件\ex01 LinearList</Filter>
     </ClCompile>
     <ClCompile Include="ex0201bracket drawer.cpp">
       <Filter>源文件\ex02_StackQueue</Filter>
@@ -41,6 +44,12 @@
     </ClCompile>
     <ClCompile Include="ex0202 出栈序列统计.cpp">
       <Filter>源文件\ex02_StackQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="hw0103 list_reverse.cpp">
+      <Filter>源文件\ex01 LinearList</Filter>
+    </ClCompile>
+    <ClCompile Include="hw0301.cpp">
+      <Filter>源文件\ex03</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -15,19 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2.2 arrList.cpp">
+    <ClCompile Include="List.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="arrList2.cpp">
+    <ClCompile Include="BinominalTree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="arrList.h">
+    <ClCompile Include="Stack.cpp">
       <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="arrList2.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>
