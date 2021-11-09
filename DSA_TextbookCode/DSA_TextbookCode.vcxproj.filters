@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="头文件\Tree-unionfind">
+      <UniqueIdentifier>{ee8ce2de-4eb5-44cf-a441-57ce45038d64}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="List.cpp">
@@ -24,5 +27,16 @@
     <ClCompile Include="Stack.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="unionfind.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ParTree.h">
+      <Filter>头文件\Tree-unionfind</Filter>
+    </ClInclude>
+    <ClInclude Include="ParTreeNode.h">
+      <Filter>头文件\Tree-unionfind</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
