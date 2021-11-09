@@ -16,6 +16,9 @@
     <Filter Include="头文件\Tree-unionfind">
       <UniqueIdentifier>{ee8ce2de-4eb5-44cf-a441-57ce45038d64}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\LinearList">
+      <UniqueIdentifier>{64c16d7f-55fe-4475-bef8-53bb585d5273}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="List.cpp">
@@ -37,6 +40,15 @@
     </ClInclude>
     <ClInclude Include="ParTreeNode.h">
       <Filter>头文件\Tree-unionfind</Filter>
+    </ClInclude>
+    <ClInclude Include="arrList.h">
+      <Filter>头文件\LinearList</Filter>
+    </ClInclude>
+    <ClInclude Include="myList.h">
+      <Filter>头文件\LinearList</Filter>
+    </ClInclude>
+    <ClInclude Include="lnkList.h">
+      <Filter>头文件\LinearList</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

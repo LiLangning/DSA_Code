@@ -152,8 +152,11 @@
     <ClCompile Include="unionfind.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="lnkList.h" />
     <ClInclude Include="ParTree.h" />
     <ClInclude Include="ParTreeNode.h" />
+    <ClInclude Include="arrList.h" />
+    <ClInclude Include="myList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
